@@ -2,9 +2,9 @@
 
 /* ===== HOTSPOTS (puedes editar/añadir los tuyos) ===== */
 window.HOTSPOTS = [
-  { x: 19.6, y: 44.0, n: 1,  title: "Idioma",      text: "El primer paso es la selección del idioma a su preferencia; una vez seleccionado el idioma se podrá continuar." },
-  { x: 58.8, y: 45.2, n: 2,  title: "Continuar",   text: "Clic en el botón para continuar" },
-  { x: 84.8, y: 59.2, n: 3,  title: "Continuar",   text: "Clic en el botón para continuar" },
+  { x: 19.6, y: 44.0, n: 1,  title: "Menú",      text: "Agencias" },
+  { x: 58.8, y: 45.2, n: 2,  title: "Opciones generales:",   text: "En las opciones generales encontramos un campo de búsqueda el cual filtra según el parámetro indicado, un botón que permite exportar el listado de agencias en diferentes formatos y el botón para añadir una nueva agencia al sistema." },
+  { x: 84.8, y: 59.2, n: 3,  title: "Acciones agencia:",   text: "Las acciones especificas permiten gestionar una agencia seleccionada, dentro de estas acciones se tiene el botón para ampliar la información, editar la agencia y eliminarla." },
 ];
 
 /* ===== BOTONES flotantes =====
